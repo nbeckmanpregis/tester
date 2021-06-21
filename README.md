@@ -1,2 +1,4 @@
 # tester
-tester repositoryanother edit
+tester repository, rebase and amend in a fresh environment
+edits to commit
+another edit
